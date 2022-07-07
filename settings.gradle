@@ -1,0 +1,2 @@
+rootProject.name='Aulia_UAS'
+include ':app'
